@@ -1,0 +1,20 @@
+#GameOver {
+    text-align: center;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+#GameOver h2, 
+#GameOver p {
+    margin-bottom: 1rem;
+}
+
+#GameOver p {
+    color: #ff8640;
+}
+
+#GameOver img {
+    margin: 2rem;
+    height: 200px;
+}
