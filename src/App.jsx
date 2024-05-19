@@ -32,6 +32,7 @@ function App() {
             {quiz.gameStage === "End" && <GameOver />}
         </div>
     );
+    
 }
 
 export default App;
